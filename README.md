@@ -1,4 +1,4 @@
-# React Crytpo APp
+# React Crytpo App
 
 ## 👨‍💻 Demo
 
